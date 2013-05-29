@@ -1,0 +1,147 @@
+2013-05-27 01:37:23  -- .                    +++ LOG   +++  Loading [config.php]..
+2013-05-27 01:37:56  -- .                    +++ LOG   +++  Loading [config.php]..
+2013-05-27 01:37:56  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2013-05-27 01:37:56  -- .                    +++ LOG   +++  Loading [context.php]..
+2013-05-27 01:37:56  -- .                    +++ LOG   +++ [context.php] loaded successfully.
+2013-05-27 01:37:56  -- .                    +++ LOG   +++  Loading [log.php]..
+2013-05-27 01:37:56  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2013-05-27 01:37:56  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2013-05-27 01:37:56  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2013-05-27 01:39:19  -- .                    +++ LOG   +++  Loading [config.php]..
+2013-05-27 01:39:19  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2013-05-27 01:39:19  -- .                    +++ LOG   +++  Loading [context.php]..
+2013-05-27 01:39:19  -- .                    +++ LOG   +++ [context.php] loaded successfully.
+2013-05-27 01:39:19  -- .                    +++ LOG   +++  Loading [log.php]..
+2013-05-27 01:39:19  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2013-05-27 01:39:19  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2013-05-27 01:39:19  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2013-05-27 01:40:27  -- .                    +++ LOG   +++  Loading [config.php]..
+2013-05-27 01:40:27  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2013-05-27 01:40:27  -- .                    +++ LOG   +++  Loading [context.php]..
+2013-05-27 01:40:27  -- .                    +++ LOG   +++ [context.php] loaded successfully.
+2013-05-27 01:40:27  -- .                    +++ LOG   +++  Loading [log.php]..
+2013-05-27 01:40:27  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2013-05-27 01:40:27  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2013-05-27 01:40:27  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2013-05-27 01:40:51  -- .                    +++ LOG   +++  Loading [config.php]..
+2013-05-27 01:40:51  -- .                    +++ LOG   +++ [config.php] loaded successfully.
+2013-05-27 01:40:51  -- .                    +++ LOG   +++  Loading [context.php]..
+2013-05-27 01:40:51  -- .                    +++ LOG   +++ [context.php] loaded successfully.
+2013-05-27 01:40:51  -- .                    +++ LOG   +++  Loading [log.php]..
+2013-05-27 01:40:51  -- .                    +++ LOG   +++ [log.php] loaded successfully.
+2013-05-27 01:40:51  -- .                    +++ LOG   +++  Loading [utils.class.php]..
+2013-05-27 01:40:51  -- .                    +++ LOG   +++ [utils.class.php] loaded successfully.
+2013-05-27 01:41:23  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:41:23  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:41:23  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:41:23  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:41:23  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:41:23  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:41:23  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:41:23  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:42:33  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:42:33  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:42:33  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:42:33  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:42:33  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:42:33  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:42:33  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 01:42:33  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 02:48:48  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 02:49:12  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 02:49:12  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 02:49:12  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 02:49:12  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 02:49:12  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 02:49:12  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 02:49:12  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 02:49:12  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 02:49:12  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 02:49:12  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 02:49:12  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 02:49:12  -- .logFactory          +++ LOG   +++ Framework
+2013-05-27 03:01:53  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 03:01:53  -- userModel.userController +++ LOG   +++ SQL ERROR: SELECT * FROM users
+2013-05-27 03:46:51  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 03:46:51  -- userModel.userController +++ LOG   +++ SQL ERROR: SELECT * FROM users, No such file or directory
+2013-05-27 03:48:17  -- userModel.userController +++ LOG   +++ Connecting to root@localhost/prototype
+2013-05-27 03:48:17  -- userModel.userController +++ LOG   +++ 'Error Connecting:No such file or directory
+2013-05-27 03:48:17  -- userModel.userController +++ LOG   +++ Error Selecting DB:No such file or directory
+2013-05-27 03:48:17  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 03:48:17  -- userModel.userController +++ LOG   +++ SQL ERROR: SELECT * FROM users, No such file or directory
+2013-05-27 03:50:54  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 03:50:54  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 03:53:05  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 03:53:05  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:11:11  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:11:11  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:11:32  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:11:32  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:11:59  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:11:59  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:12:09  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:12:09  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:12:11  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:12:11  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:12:21  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:12:21  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:12:35  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:12:35  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:13:16  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:13:16  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:13:28  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:13:28  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:13:57  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:13:57  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:14:00  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:14:00  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:14:05  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:14:05  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:14:24  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:14:24  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:14:33  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:14:33  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:14:53  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:14:53  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:15:07  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:15:07  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:15:08  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:15:08  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:15:28  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:15:28  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:17:41  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:17:41  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:17:43  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:17:43  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:18:27  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:18:27  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:18:29  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:18:29  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 04:18:29  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 04:18:29  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 05:35:28  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 05:35:28  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 05:35:44  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 05:35:44  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 05:35:50  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 05:35:50  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 05:35:59  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 05:35:59  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 05:36:39  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 05:36:39  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 06:18:32  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 06:18:32  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 06:19:44  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 06:19:44  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 06:19:56  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 06:19:56  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 06:20:43  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 06:20:43  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 06:21:05  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 06:21:05  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 06:21:16  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 06:21:17  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 06:21:38  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 06:21:38  -- userModel.userController +++ LOG   +++ SELECT * FROM users
+2013-05-27 06:22:02  -- userModel.userController +++ LOG   +++ Connecting to root@127.0.0.1/prototype
+2013-05-27 06:22:02  -- userModel.userController +++ LOG   +++ SELECT * FROM users

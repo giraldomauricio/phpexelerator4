@@ -1,10 +1,27 @@
 <?
 
+
+// This file is part of phpexelerator4.
+
+// phpexelerator4 is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+
+// phpexelerator4 is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+
+// You should have received a copy of the GNU General Public License
+// along with phpexelerator4 (licence.txt).  If not, see <http://www.gnu.org/licenses/>.
+
 // ###################################################################
 // phpEXelerator v.4.0
 // (R) 2005-2013
 // ###################################################################
 // Start application configuration
+
 
 ini_set('max_execution_time', '1800');
 ini_set('max_input_time', '1800');
